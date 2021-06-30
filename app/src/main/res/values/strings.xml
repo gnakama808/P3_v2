@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P3_v2</string>
+    <string name="makemodel">makemodel</string>
+    <string name="price">price</string>
+    <string name="cardetails">cardetails</string>
+    <string name="update">update</string>
+</resources>
